@@ -1,0 +1,8 @@
+{
+    "uuid": "zfs-usage@baqueiro.com",
+    "name": "ZFS Pool Usage",
+    "description": "Display The Storage Usage of Available ZFS Pools",
+    "max-instance": "-1",
+    "icon": "zfs-icon"
+    "version": "1.0"
+}
